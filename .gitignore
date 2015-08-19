@@ -1,6 +1,7 @@
+*.pyc
 smpy-obs/error.log
 smpy-fits/error.log
-*.ipynb
+#*.ipynb
 *.npz
 *.npy
 *.pdf
