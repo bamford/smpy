@@ -6,7 +6,7 @@ The code makes use of the [Astropy](https://astropy.readthedocs.org) module thro
 
 Currently supported simple stellar population models are:
 
-1. [Bruzual & Charlot 2003](http://www.bruzual.org/bc03/Updated_version_2012/)
+1. [Bruzual & Charlot 2003](http://www.bruzual.org/bc03/)
 2. [BPASS V1 & V2](http://bpass.auckland.ac.nz/)
 
 These files are not included in the PyPI source distribution, however a set of unpacked Bruzual & Charlot models are included within the `scripts/data` folder on the github page.
